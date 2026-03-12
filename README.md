@@ -1,4 +1,4 @@
-<img src="matheusalmeida/banner.png" alt="Banner" width="100%"/>
+<img src="banner.png" alt="Banner" width="100%"/>
 
 <h1 align="center">👋 Olá, eu sou Matheus Almeida Rigueira</h1>
 <h3 align="center">💻 Entusiasta de tecnologia e programação | Suporte e manutenção de computadores</h3>
