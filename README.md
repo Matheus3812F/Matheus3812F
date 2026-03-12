@@ -35,6 +35,9 @@
 - Comunicação eficaz, criatividade e empatia  
 - Trabalho em equipe e capacidade de adaptação  
 
+<br>
+<br>
+<br>
 <h1 align="center">🔧 Tecnologias e Linguagens</h1>
 
 <div align="center">
