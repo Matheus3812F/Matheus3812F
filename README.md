@@ -18,16 +18,6 @@
   </tr>
 </table>
 
-<style>
-  /* Estilo responsivo: quando a tela for menor que 500px */
-  @media (max-width: 500px) {
-    .gif-responsive {
-      width: auto;        /* largura automática */
-      height: 400px;      /* altura maior */
-    }
-  }
-</style>
-
 ### 🎓 Formação
 - Técnico em Informática pelo Instituto Federal da Paraíba (IFPB) - Campus Catolé do Rocha  
   - Premiado com destaque pelo melhor Trabalho de Conclusão de Curso (TCC) na área de Educação e Tecnologias  
