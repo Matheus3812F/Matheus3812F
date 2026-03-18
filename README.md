@@ -59,7 +59,7 @@
 <br>
 <p align="center">
   <img height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusalrg&layout=compact&langs_count=8&card_width=320&theme=tokyonight&cache_seconds=0"/>
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusalrg&layout=compact&langs_count=8&card_width=320&theme=tokyonight&v=1"/>
 </p>
 
 <h1 align="center">🌐 Contato & Redes Sociais</h1>
