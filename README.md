@@ -36,7 +36,7 @@
 - Trabalho em equipe e capacidade de adaptação  
 
 <picture align="center">
-  <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/matheusalrg/gitrepo/output/snake.svg" alt="Snake animation" />
 </picture>
 
 <h1 align="center">🔧 Tecnologias e Linguagens</h1>
