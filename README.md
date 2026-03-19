@@ -35,9 +35,9 @@
 - Comunicação eficaz, criatividade e empatia  
 - Trabalho em equipe e capacidade de adaptação  
 
-<picture align="center">
-  <img src="https://raw.githubusercontent.com/matheusalrg/gitrepo/output/snake.svg" alt="Snake animation" />
-</picture>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/matheusalrg/matheusalrg/output/snake.svg" alt="Snake animation" />
+</p>
 
 <h1 align="center">🔧 Tecnologias e Linguagens</h1>
 
