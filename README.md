@@ -55,7 +55,6 @@
 
 <br>
 <br>
-<table>
   <tr>
     <td>
       <img height="180em"
@@ -66,7 +65,6 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusalrg&layout=compact&langs_count=8&theme=tokyonight"/>
     </td>
   </tr>
-</table>
 
 <h1 align="center">🌐 Contato & Redes Sociais</h1>
 
